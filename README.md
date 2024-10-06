@@ -10,5 +10,5 @@
 
 Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
 
-- Visual Studio (2019 ou supérieur)
-- [SFML](https://www.sfml-dev.org/) (v2.5.1 ou supérieur)
+- Visual Studio (2022 ou supérieur)
+- [SFML](https://www.sfml-dev.org/) (v2.6.1 ou supérieur)
